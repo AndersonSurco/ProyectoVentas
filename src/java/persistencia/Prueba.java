@@ -26,7 +26,7 @@ public class Prueba {
         if(cn!=null){
             System.out.println("Si hay conexion");
         }else{
-            System.out.println("No hay conexion :c");
+            System.out.println("No hay conexion :c");raaa
         }
         */
         /*DaoEmpleado daoEmp = new DaoEmpleadoImp();
